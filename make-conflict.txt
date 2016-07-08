@@ -3,3 +3,5 @@ This file MUST conflict
 Here's some text.
 
 Ok, now we've resolved it.
+
+TESTING
